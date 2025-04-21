@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pickleball-analyzer/static/css/main.e6c13ad2.css",
+    "main.js": "/pickleball-analyzer/static/js/main.e001f37a.js",
+    "static/js/453.d2e924a0.chunk.js": "/pickleball-analyzer/static/js/453.d2e924a0.chunk.js",
+    "index.html": "/pickleball-analyzer/index.html",
+    "main.e6c13ad2.css.map": "/pickleball-analyzer/static/css/main.e6c13ad2.css.map",
+    "main.e001f37a.js.map": "/pickleball-analyzer/static/js/main.e001f37a.js.map",
+    "453.d2e924a0.chunk.js.map": "/pickleball-analyzer/static/js/453.d2e924a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e001f37a.js"
+  ]
+}
